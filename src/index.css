@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+:root{--bg:#e4ede9;--panel:#f1f3f2;--ink:#111;--mut:#555;--mint:#cfe3dd;--yellow:#fae6a2;--lilac:#ddd0ee;--pink:#fad4e4}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);font-family:Poppins,system-ui,sans-serif;color:var(--ink)}
+a{color:inherit;text-decoration:none}
+h1{font-size:2rem;margin:.2rem 0 1.2rem;font-weight:600}h2{font-size:1.1rem;margin:0 0 .6rem;font-weight:500}h3{margin:.1rem 0;font-size:1.05rem;font-weight:600}
+small{font-size:.75rem;color:var(--mut)}p{margin:0;font-size:.78rem;color:var(--mut)}
